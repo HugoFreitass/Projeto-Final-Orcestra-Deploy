@@ -6,7 +6,7 @@
   
 1. Após clonar o repositório:
 
-   `cd projeto-final-react-orcestra`
+   `cd Projeto-Final-Orcestra-Deploy`
    
    `npm install`
    
